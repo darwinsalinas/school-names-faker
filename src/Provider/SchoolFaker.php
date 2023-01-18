@@ -2,7 +2,7 @@
 
 namespace SchoolNameFaker\Provider;
 
-class School extends \Faker\Provider\Base
+class SchoolFaker extends \Faker\Provider\Base
 {
     protected static $schoolNames = [
         "Esc. Normal Acad. Pedag. Pablo Apostol Managua",
